@@ -1,0 +1,23 @@
+{
+  "name": "deviceconsole",
+  "version": "1.0.0",
+  "description": "iOS system log tailer that doesn't suck",
+  "main": "deviceconsole",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonahss/deviceconsole.git"
+  },
+  "keywords": [
+    "iOS",
+    "log"
+  ],
+  "author": "rpetrich@gmail.com",
+  "bugs": {
+    "url": "https://github.com/rpetrich/deviceconsole/issues"
+  },
+  "homepage": "https://github.com/Jonahss/deviceconsole"
+}

@@ -4,10 +4,13 @@
   "description": "iOS system log tailer that doesn't suck",
   "main": "deviceconsole",
   "scripts": {
+  },
+  "bin": "./deviceconsole",
+  "scripts": {
+    "preinstall": "make",
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "make"
   },
-  "bin": "./deviceconsole",
   "repository": {
     "type": "git",
     "url": "https://github.com/appium/deviceconsole.git"
